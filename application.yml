@@ -12,3 +12,5 @@ spring:
 
 spring:
   profiles: key-vault
+
+eureka.client.serviceUrl.defaultZone=http://localhost:8090/eureka
